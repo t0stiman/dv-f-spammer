@@ -6,5 +6,5 @@
 	"EntryMethod": "dv_f_spammer.Main.Load",
 	"AssemblyName": "dv_f_spammer.dll",
 	"HomePage": "https://github.com/t0stiman/dv-f-spammer",
-	"Repository": "https://raw.githubusercontent.com/t0stiman/dv-f-spammer/master/Repository.json"
+	"Repository": "https://raw.githubusercontent.com/t0stiman/dv-f-spammer/master/repository.json"
 }
