@@ -1,0 +1,7 @@
+.idea
+bin
+obj
+packages
+Directory.Build.targets
+dv_f_spammer.lnk
+Folder.DotSettings.user

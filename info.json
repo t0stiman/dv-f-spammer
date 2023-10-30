@@ -1,0 +1,9 @@
+{
+	"Id": "dv_f_spammer",
+	"Version": "0.0.1",
+	"DisplayName": "F spammer mod",
+	"Author": "Tostiman",
+	"EntryMethod": "dv_f_spammer.Main.Load",
+	"AssemblyName": "dv_f_spammer.dll",
+	"HomePage": "https://www.tostiman.com"
+}
