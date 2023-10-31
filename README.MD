@@ -1,3 +1,3 @@
 ﻿# F spammer mod for Derail Valley
 
-Move around the valley faster by holding F.
+While holding F, this mod will spam F for you so you can move around the Valley real fast.
