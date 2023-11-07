@@ -1,6 +1,6 @@
 {
 	"Id": "dv_f_spammer",
-	"Version": "0.0.1",
+	"Version": "0.0.2",
 	"DisplayName": "F spammer mod",
 	"Author": "Tostiman",
 	"EntryMethod": "dv_f_spammer.Main.Load",
