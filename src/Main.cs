@@ -39,7 +39,7 @@ namespace dv_f_spammer
 
         private static void OnUpdate(UnityModManager.ModEntry modEntry, float idk)
         {
-            bool getKey = Input.GetKey(KeyCode.F);
+            bool getKey = Input.GetKey(KeyCode.F) && (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift));
             if (!getKey)
             {
                 return;
