@@ -2,13 +2,13 @@
     "Releases": [
         {
             "Id": "dv_f_spammer",
-            "Version": "0.0.1",
-            "DownloadUrl": "https://github.com/t0stiman/dv-f-spammer/releases/download/0.0.1/F.spammer.mod.v0.0.1.zip"
+            "Version": "0.0.2",
+            "DownloadUrl": "https://github.com/t0stiman/dv-f-spammer/releases/download/0.0.2/F.spammer.mod.v0.0.2.zip"
         },
         {
             "Id": "dv_f_spammer",
-            "Version": "0.0.2",
-            "DownloadUrl": "https://github.com/t0stiman/dv-f-spammer/releases/download/0.0.2/F.spammer.mod.v0.0.2.zip"
-        }
+            "Version": "0.0.1",
+            "DownloadUrl": "https://github.com/t0stiman/dv-f-spammer/releases/download/0.0.1/F.spammer.mod.v0.0.1.zip"
+        }        
     ]
 }
